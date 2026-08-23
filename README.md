@@ -1,2 +1,2 @@
 # Saylani-Assignment-Solutions
-Solution of every assignment posted in lms
+Solution of every assignment posted in LMS
